@@ -1,20 +1,13 @@
-Sure! Here's a professional format standard `README.md` file for your Netflix-Clone GitHub project:
 
-```markdown
+
+
 # Netflix-Clone
 
 [Live Demo](http://mayuryalij.github.io/Netflix-Clone)
 
 A Netflix clone project built with React.
 
-## Table of Contents
 
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -84,15 +77,4 @@ A Netflix clone project built with React.
 
    This command will deploy the built project to the `gh-pages` branch, making it accessible via the provided `homepage` URL.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Make sure to replace `your-username` in the installation section with your actual GitHub username.
-
-You can copy this markdown and save it as `README.md` in the root directory of your project on GitHub. Feel free to modify the content according to your project's specifics.
