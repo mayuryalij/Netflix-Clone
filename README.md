@@ -6,10 +6,18 @@
 [Live Demo](http://mayuryalij.github.io/Netflix-Clone)
 
 A Netflix clone project built with React.
+## Description
 
+This repository contains the source code for a Netflix clone built with React. It aims to replicate the user interface and functionality of Netflix, allowing users to browse movies and series, view featured content, and continue watching where they left off.
 
+The project utilizes popular libraries and frameworks such as React, Emotion for styling, and Material-UI icons. It also includes testing configurations with Jest and React Testing Library.
 
-## Features
+### Key Features
+
+- **Homepage:** The main page displays a Netflix-like interface with a navigation bar, featured content section, and a list of movies and series.
+- **Featured Content:** Users can select a genre from the dropdown menu in the featured content section to filter the displayed movies and series.
+- **Continue Watching:** The project includes a section that lists movies and series the user has previously watched, allowing them to easily continue from where they left off.
+- **Responsive Design:** The application is designed to be responsive, ensuring optimal viewing experience across different devices and screen sizes.
 
 - Home page displaying a Netflix-like interface with movies and series.
 - Featured content section with genre selection.
@@ -76,5 +84,12 @@ A Netflix clone project built with React.
    ```
 
    This command will deploy the built project to the `gh-pages` branch, making it accessible via the provided `homepage` URL.
+
+
+   ### Deployment
+
+   The project is deployed using GitHub Pages. You can access the live demo by visiting the [Netflix-Clone] 
+   (http://mayuryalij.github.io/Netflix-Clone) page.
+
 
 
