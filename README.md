@@ -1,9 +1,7 @@
 
 
 
-# Netflix-Clone
-
-[Live Demo](http://mayuryalij.github.io/Netflix-Clone)
+# Netflix-Clone [Click here](http://mayuryalij.github.io/Netflix-Clone)
 
 A Netflix clone project built with React.
 ## Description
